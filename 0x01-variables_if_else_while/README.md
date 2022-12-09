@@ -5,3 +5,4 @@
 3. alphABET -  program that prints the alphabet in lowercase, and then in uppercase, followed by a new line using putchar().
 4. When I was having that alphabet soup, I never thought that it would pay off - a program that prints the alphabet in lowercase except q and e, followed by a new line.
 5. NUmbers - a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+6. Numberz -  program that prints all single digit numbers of base 10 starting from 0, followed by a new line without using tye char. 
