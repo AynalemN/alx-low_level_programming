@@ -3,4 +3,5 @@
 - https://www.geeksforgeeks.org/find-first-last-digits-number/ to understand how to find last digit of a number.
 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game - Write a program that prints the alphabet in lowercase, followed by a new line using putchar().
 3. alphABET -  program that prints the alphabet in lowercase, and then in uppercase, followed by a new line using putchar().
-4. When I was having that alphabet soup, I never thought that it would pay off - a program that prints the alphabet in lowercase except q and e, followed by a new line. 
+4. When I was having that alphabet soup, I never thought that it would pay off - a program that prints the alphabet in lowercase except q and e, followed by a new line.
+5. NUmbers - a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
