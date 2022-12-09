@@ -6,4 +6,5 @@
 4. When I was having that alphabet soup, I never thought that it would pay off - a program that prints the alphabet in lowercase except q and e, followed by a new line.
 5. NUmbers - a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 6. Numberz -  program that prints all single digit numbers of base 10 starting from 0, followed by a new line without using tye char.
-7. Smile in the mirror - program that prints the lowercase alphabet in reverse, followed by a new line. 
+7. Smile in the mirror - program that prints the lowercase alphabet in reverse, followed by a new line.
+8. Hexadecimal - a program that prints all the numbers of base 16 in lowercase, followed by a new line using putchar(). 
