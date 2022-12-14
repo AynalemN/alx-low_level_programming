@@ -18,7 +18,7 @@ void jack_bauer(void)
 				_putchar('0');
 				_putchar(h + '0');
 			}
-			else if (h > 10)
+			else if (h >= 10)
 			{
 				int f = h / 10;
 				int l = h % 10;
@@ -29,7 +29,8 @@ void jack_bauer(void)
 			if (m <= 9)
 			{
 				_putchar(':');
-				_putchar('0' + m);
+				_putchar('0');
+				_putchar(m + '0');
 			}
 			else if (m >= 10)
 			{
