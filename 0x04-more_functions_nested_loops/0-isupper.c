@@ -1,10 +1,8 @@
 #include "main.h"
 /**
- * _isupper - checks for uppercase
- * 
- * @c - is the alphabet or the argument checked
- * 
- * Return: 1 if c is uppercase else 0
+ *_isupper - checks for uppercase
+ *@c - is the alphabet or the argument checked
+ *Return: 1 if c is uppercase else 0
  */
 
 int _isupper(int c)
