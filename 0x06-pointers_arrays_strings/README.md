@@ -4,4 +4,5 @@
 1. strncat - a sunction that concatenates two strings. 
 	* The ** _strncat ** function is similar to the _strcat function, except that it will use at most n bytes from src; and
 	* src does not need to be null-terminated if it contains n or more byte
-2. strncpy - a function thata copies a string. 
+2. strncpy - a function thata copies a string.
+3. strcmp - a function that compares two strings. 
