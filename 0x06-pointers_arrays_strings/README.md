@@ -8,4 +8,6 @@
 3. strcmp - a function that compares two strings.
 4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy - a function that reverses the content of an array of integers.
 	* n is the number of elements of the array.
-5. Always look up - a function that changes all lowercase letter of a string to uppercase. 
+5. Always look up - a function that changes all lowercase letter of a string to uppercase.
+6.  Expect the best. Prepare for the worst. Capitalize on what comes - a function that capitalizes all words of a string.(capitalize the first letter of a string.
+	* Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and } 
