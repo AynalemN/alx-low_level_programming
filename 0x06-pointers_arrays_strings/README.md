@@ -17,4 +17,5 @@
 	* Letters o and O should be replaced by 0
 	* Letters t and T should be replaced by 7
 	* Letters l and L should be replaced by 1
-* Using only one if, maximum of two loops and without using switch and ternary operation. 
+* Using only one if, maximum of two loops and without using switch and ternary operation.
+8. rot13 - a function that encodes a string using rot13. 
