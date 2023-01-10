@@ -33,4 +33,5 @@ char *_strdup(char *str)
 	}
 	p[j] = '\0';
 	return (p);
+	free (p);
 }
