@@ -1,6 +1,7 @@
 #include "3-calc.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 /**
  * main - prints the result of the operation
  * @argc: argument counter
@@ -21,7 +22,7 @@ int main(int argc, char *argv[])
 
 	p = get_op_func(argv[2]);
 
-	if (!p)
+	if (p == NULL)
 	{
 		printf("Error\n");
 		exit(99);
