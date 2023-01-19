@@ -14,3 +14,10 @@
 	* If separator is `NULL`, don’t print it
 	* If one of the string is `NULL`, print `(nil)` instead
 	* Print a new line at the end of your function
+3. To be is a to be the value of a variable - Write a function that prints anything.
+	* where format is a list of types of arguments passed to the function
+		* c: char
+		* i: integer
+		* f: float
+		* s: char * (if the string is NULL, print (nil) instead
+		* any other char should be ignored
