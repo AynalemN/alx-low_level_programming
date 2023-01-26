@@ -10,7 +10,6 @@
 size_t print_list(const list_t *h)
 {
 	unsigned int index = 0;
-	const list_t *h = NULL;
 
 	if (h == NULL)
 	{
@@ -20,7 +19,7 @@ size_t print_list(const list_t *h)
 	{
 		if (h->str == NULL)
 		{
-			printf("[0] (nil)\n");
+			printf("[%d] (nil)\n", h->len);
 		}
 		else
 		{
