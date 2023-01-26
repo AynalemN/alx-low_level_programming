@@ -10,6 +10,7 @@
 size_t print_list(const list_t *h)
 {
 	unsigned int index = 0;
+	const list_t *h = NULL;
 
 	if (h == NULL)
 	{
