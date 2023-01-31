@@ -6,7 +6,7 @@
  */
 int pop_listint(listint_t **head)
 {
-	unsigned int index = 0;
+	int index = 0;
 	listint_t *new_node;
 
 	if (*head != NULL)
@@ -16,5 +16,5 @@ int pop_listint(listint_t **head)
 		free(*head);
 		*head = new_node;
 	}
-	return (index);
+		return (index);
 }
