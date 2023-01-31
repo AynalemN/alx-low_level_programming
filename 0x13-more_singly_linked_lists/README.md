@@ -6,3 +6,4 @@
 	* Return: the address of the new element, or NULL if it failed
 3. Add node at the end - Write a function that adds a new node at the end of a listint_t list.
 	* Return: the address of the new element, or NULL if it failed.
+4. Free list - write a function that frees a listint_t list.
