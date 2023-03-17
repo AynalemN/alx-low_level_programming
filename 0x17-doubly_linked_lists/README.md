@@ -9,3 +9,4 @@
 7. Insert at index - Write a function that inserts a new node at a given position.
 	* if it is not possible to add the new node at index idx, do not add the new node and return NULL
 8. Delete at index - Write a function that deletes the node at index index of a dlistint_t linked list.
+9. 9. Crackme4 - find the password for [crackme4](https://github.com/holbertonschool/0x17.c)
